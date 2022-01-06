@@ -174,9 +174,9 @@ public class test01 {
 						}else if(gmact==3) {
 							System.out.println("관리자모드를 종료하겠습니다.");
 							break;
-						}else {
+						}else 
 							continue;
-						}
+						
 
 
 					}break;
